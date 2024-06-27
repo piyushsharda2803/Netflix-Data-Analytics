@@ -1,8 +1,3 @@
-# Netflix-Data-Analytics
-Creating a README file for your GitHub project involves documenting the purpose, setup instructions, usage examples, and any other relevant information. Here’s a template you can use based on your project:
-
----
-
 # Netflix Data Analysis Project
 
 Welcome to Netflix Data Analytics, your comprehensive toolkit for exploring and analyzing Netflix movie and TV show data. This repository contains SQL queries and scripts designed to extract insights and perform data manipulation tasks on the Netflix dataset.
