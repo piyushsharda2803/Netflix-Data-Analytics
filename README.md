@@ -9,6 +9,7 @@ Welcome to Netflix Data Analytics, your comprehensive toolkit for exploring and 
 - [Data Description](#data-description)
 - [Analysis Queries](#analysis-queries)
 - [Usage](#usage)
+- [Conclusion](#Conclusion)
 
 ## Overview
 
@@ -81,21 +82,23 @@ Visual Summary:
 
 Insight: Identified the country with the most comedy movies available on Netflix.
 Visual Summary: 
-![graph_visualiser-1719502134099](https://github.com/piyushsharda2803/Netflix-Data-Analytics/assets/87650893/7e5a9513-866f-430f-85e0-d515eed571a7)
+![3](https://github.com/piyushsharda2803/Netflix-Data-Analytics/assets/87650893/9d3b6666-4ecd-4e59-a20d-d6ce6e7476d2)
+
 
 3. Directors with the Most Movies Released Each Year
 
 Insight: Highlighted directors with the highest number of movies released annually.
 Visual Summary: 
-![3](https://github.com/piyushsharda2803/Netflix-Data-Analytics/assets/87650893/cbb17790-7d2e-478a-8898-2e0505db2be1)
 
+![6](https://github.com/piyushsharda2803/Netflix-Data-Analytics/assets/87650893/5454e9cc-80f0-478b-8647-b79cfc5862d8)
 
 
 4. Average Duration of Movies in Each Genre
 
 Insight: Calculated the average duration of movies across different genres.
 Visual Summary: 
-![4](https://github.com/piyushsharda2803/Netflix-Data-Analytics/assets/87650893/40b34588-a5f0-42a7-858c-50c209b8f3d0)
+
+![4](https://github.com/piyushsharda2803/Netflix-Data-Analytics/assets/87650893/78ba5e22-2dcf-4f0c-81cc-55b5889a662f)
 
 
 5. Directors Who Have Directed Both Horror and Comedy Movies
